@@ -1,3 +1,8 @@
+/* Copyright (C) Alex McBride - All Rights Reserved
+ * Unauthorized copying of this file, via any medium is strictly prohibited
+ * Proprietary and confidential
+ * Written by Alex McBride <alexmcb@gmail.com>, 2015
+ */
 #ifndef MKV_HEADER_CREATE_H
 #define MKV_HEADER_CREATE_H
 

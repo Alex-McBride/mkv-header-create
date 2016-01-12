@@ -1,3 +1,8 @@
+/* Copyright (C) Alex McBride - All Rights Reserved
+ * Unauthorized copying of this file, via any medium is strictly prohibited
+ * Proprietary and confidential
+ * Written by Alex McBride <alexmcb@gmail.com>, 2015
+ */
 #include <stdlib.h>
 #include <stdio.h>
 #include <stdint.h>
